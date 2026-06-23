@@ -1,0 +1,6 @@
+$(SML_LIB)/basis/basis.mlb
+../sml-buffer/sources.mlb
+../sml-riff/riff.mlb
+../sml-ogg/ogg.mlb
+flac.sig
+flac.sml
